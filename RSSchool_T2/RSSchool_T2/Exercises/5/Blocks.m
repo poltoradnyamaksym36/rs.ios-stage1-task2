@@ -1,7 +1,7 @@
 #import "Blocks.h"
 
-@implementation Blocks
-
+@implementation Blocks {
+   
 
 @end
 
